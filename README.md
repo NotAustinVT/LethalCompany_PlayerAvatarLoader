@@ -21,4 +21,4 @@
 
 ## Screenshots
 Goku:
-![Goku](https://github.com/NotAustinVT/LethalCompany_PlayerAvatarLoader/blob/Main/Screenshots/Goku.png?raw=true)
+![Goku](https://github.com/NotAustinVT/LethalCompany_PlayerAvatarLoader/blob/main/Screenshots/Goku.png?raw=true)
