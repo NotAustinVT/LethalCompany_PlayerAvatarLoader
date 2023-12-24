@@ -18,3 +18,5 @@
 ## Known Issues
 - Wearing any suit not added to the mod config will leave the player invisible.
 - Dynamic bones or any similar feature is not supported (yet?).
+
+## Screenshots
