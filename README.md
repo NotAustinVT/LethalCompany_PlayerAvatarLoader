@@ -20,14 +20,10 @@
 - Dynamic bones or any similar feature is not supported (yet?).
 
 ## Screenshots
-#Goku:
 ![Goku](https://github.com/NotAustinVT/LethalCompany_PlayerAvatarLoader/blob/main/Screenshots/Goku.png?raw=true)
 
-#WarGreyMon:
 ![WarGreymon](https://github.com/NotAustinVT/LethalCompany_PlayerAvatarLoader/blob/main/Screenshots/WarGreymon.png?raw=true)
 
-#Burger King:
 ![Burger King](https://github.com/NotAustinVT/LethalCompany_PlayerAvatarLoader/blob/main/Screenshots/Burger_King.png?raw=true)
 
-#Freddy
 ![Freddy](https://github.com/NotAustinVT/LethalCompany_PlayerAvatarLoader/blob/main/Screenshots/Freddy.png?raw=true)
