@@ -24,6 +24,6 @@
 
 ![WarGreymon](https://github.com/NotAustinVT/LethalCompany_PlayerAvatarLoader/blob/main/Screenshots/WarGreymon.png?raw=true)
 
-![Burger King](https://github.com/NotAustinVT/LethalCompany_PlayerAvatarLoader/blob/main/Screenshots/Burger_King.png?raw=true)
+![Burger King](https://github.com/NotAustinVT/LethalCompany_PlayerAvatarLoader/blob/main/Screenshots/Burger%20King.png?raw=true)
 
 ![Freddy](https://github.com/NotAustinVT/LethalCompany_PlayerAvatarLoader/blob/main/Screenshots/Freddy.png?raw=true)
