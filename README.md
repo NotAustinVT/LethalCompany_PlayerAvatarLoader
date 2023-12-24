@@ -4,6 +4,10 @@
 ## Features
 - Allows each player to have up to 4 unique models (1 for each vanilla suit).
 - 4 default avatars are for anyone who does not have a unique asset bundle or for any suits someone's bundle does not have.
+- - Orange suit: Goku (Xenoverse 2)
+  - Green suit: WarGreymon (Digimon Story: Cyber Sleuth)
+  - Hazard suit: Burger King (Sneak King)
+  - Pajama suit: Freddy (Five Nights at Freddy's: Help Wanted)
 - Works with More_Suits to remove the limit of 4 models. To use, edit this mod's config file to include ALL of the additional suit names you have loaded.
 
 ## Instructions
