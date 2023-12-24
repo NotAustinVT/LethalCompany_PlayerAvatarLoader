@@ -20,3 +20,5 @@
 - Dynamic bones or any similar feature is not supported (yet?).
 
 ## Screenshots
+Goku:
+![Goku](https://github.com/NotAustinVT/LethalCompany_PlayerAvatarLoader/blob/Main/Screenshots/Goku.png?raw=true)
