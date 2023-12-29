@@ -6,6 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="BodyReplacement.cs.backup" />
+    <None Remove="Build" />
+    <None Remove="modelbundle.BACKUP" />
+  </ItemGroup>
+
+  <ItemGroup>
     
     <Reference Include="0Harmony">
       <HintPath>F:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\core\0Harmony.dll</HintPath>

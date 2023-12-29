@@ -88,19 +88,5 @@ namespace PlayerAvatarLoader
 
             }
         }
-
-    }
-
-    public class DynBones
-    {
-        /*
-        //All Referenced Suits
-        public List<string> Suits { get; set; }
-
-        //Motion Data
-        public List<string> SuitData { get; set; }
-
-        //Collider Data
-        */
     }
 }
