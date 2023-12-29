@@ -1,4 +1,4 @@
-# PlayerAvatarLoader v1.1.0
+# PlayerAvatarLoader v1.1.1
 ### Uses ModelReplacementAPI to load a number of unique models for each player
 
 ## Features
