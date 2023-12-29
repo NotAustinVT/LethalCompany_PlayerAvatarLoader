@@ -33,3 +33,6 @@ Follow the guides on the GitHub wiki HERE: https://github.com/NotAustinVT/Lethal
   - Added ability to read XML files (i don't want to talk about how much i struggled trying to use a json file...)
   - Added support for custom blendshapes when using vanilla emotes (see Using Custom BlendShapes in the mod's wiki for a tutorial
   - *Added support for Dynamic Bones (see "Using Dynamic Bones" in the mod's wiki for more info as well as a tutorial)
+
+- v1.1.1
+  - Updated ReadMe (oops)
