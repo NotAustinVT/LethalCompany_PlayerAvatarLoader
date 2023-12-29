@@ -1,5 +1,5 @@
 # PlayerAvatarLoader v1.1.1
-### Uses ModelReplacementAPI to load a number of unique models for each player
+### Uses ModelReplacementAPI to load a number of unique models for each player. I can best be contacted on discord if needed at notaustin69 (NotAustin)
 
 ## Features
 - Allows each player to have up to 4 unique models (1 for each vanilla suit).
@@ -21,6 +21,7 @@ Follow the guides on the GitHub wiki HERE: https://github.com/NotAustinVT/Lethal
 ![Burger King](https://github.com/NotAustinVT/LethalCompany_PlayerAvatarLoader/blob/main/Screenshots/Burger%20King.png?raw=true)
 
 ![Freddy](https://github.com/NotAustinVT/LethalCompany_PlayerAvatarLoader/blob/main/Screenshots/Freddy.png?raw=true)
+
 
 ## CHANGELOG
 - v1.0.0
